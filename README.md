@@ -33,6 +33,11 @@ I am **Md. Tanvir Hossain**, a young passionate, challenge loving, research driv
   <img align="left" src="hackerrank-brands.svg" alt="HackerRank" width="22">
 </a>
  
+<a href="https://cv.mdtanvirhossain.com" title="Resume" target="_blank" >
+  <img align="left" src="file-alt-solid.svg" alt="Resume" width="18">
+</a>
+
 <a href="https://mdtanvirhossain.com" title="Website: https://mdtanvirhossain.com" target="_blank" >
   <img align="left" src="globe-solid.svg" alt="https://mdtanvirhossain.com" width="22">
 </a>
+
