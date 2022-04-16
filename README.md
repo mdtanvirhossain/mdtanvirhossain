@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am **Md. Tanvir Hossain**, a young passionate, challenge loving, research driven **Software Developer**. I am currently working with Java, Spring, AWS, JavaScript, TypeScript, Angular, SQL, Linux, etc.
+I am **Md. Tanvir Hossain**, a young passionate, challenge loving, research driven **Software Developer**. I am currently working with Java, Spring, SQL, JavaScript, React, Microservices, AWS, Linux, etc.
 
 <br>
 
